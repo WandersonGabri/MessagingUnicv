@@ -18,11 +18,11 @@ Acessibilidade Aprimorada: Consideramos cuidadosamente a acessibilidade durante 
 
 ### Imagens da aplicação:
 <div>
- <img src="https://github.com/user-attachments/assets/1b97d65d-8984-4f20-9017-f57af44a1333" width="179">
- <img src="https://github.com/user-attachments/assets/906d0b04-ea48-4470-993d-c7a9202ddaca" width="179">
- <img src="https://github.com/user-attachments/assets/fe48f805-c999-4070-a636-a393c45cd956" width="179">
- <img src="https://github.com/user-attachments/assets/18060f99-b2ea-40c3-8ed1-ef83cb561505" width="179">
- <img src="https://github.com/user-attachments/assets/f7d0733f-659a-418b-aecb-68e4d5dbba46" width="179">
+ <img src="https://github.com/user-attachments/assets/1b97d65d-8984-4f20-9017-f57af44a1333" width="170">
+ <img src="https://github.com/user-attachments/assets/906d0b04-ea48-4470-993d-c7a9202ddaca" width="170">
+ <img src="https://github.com/user-attachments/assets/fe48f805-c999-4070-a636-a393c45cd956" width="170">
+ <img src="https://github.com/user-attachments/assets/18060f99-b2ea-40c3-8ed1-ef83cb561505" width="170">
+ <img src="https://github.com/user-attachments/assets/f7d0733f-659a-418b-aecb-68e4d5dbba46" width="170">
 </div>
 
 ### Grupo resoponsável pela criação do projeto:
