@@ -25,7 +25,7 @@ Acessibilidade Aprimorada: Consideramos cuidadosamente a acessibilidade durante 
  <img src="https://github.com/user-attachments/assets/f7d0733f-659a-418b-aecb-68e4d5dbba46" width="170">
 </div>
 
-### Grupo resoponsável pela criação do projeto:
+### Grupo responsável pela criação do projeto:
 
 [Jardy Rover](https://github.com/JardyRover)
   
